@@ -1,0 +1,7 @@
+c:\users\sklep\documents\visual studio 2015\Projects\Dab_Server\Dab_Server\bin\Debug\Dab_Server.exe.config
+c:\users\sklep\documents\visual studio 2015\Projects\Dab_Server\Dab_Server\bin\Debug\Dab_Server.exe
+c:\users\sklep\documents\visual studio 2015\Projects\Dab_Server\Dab_Server\bin\Debug\Dab_Server.pdb
+c:\users\sklep\documents\visual studio 2015\Projects\Dab_Server\Dab_Server\obj\Debug\Dab_Server.exe
+c:\users\sklep\documents\visual studio 2015\Projects\Dab_Server\Dab_Server\obj\Debug\Dab_Server.pdb
+C:\Users\sklep\documents\visual studio 2015\Projects\Dab_Server\Dab_Server\obj\Debug\Dab_Server.csprojResolveAssemblyReference.cache
+C:\Users\sklep\documents\visual studio 2015\Projects\Dab_Server\Dab_Server\bin\Debug\server.pfx
